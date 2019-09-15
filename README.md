@@ -1,4 +1,4 @@
-## HeadingHoudini-SubdivIsoline-View
+## Houdini-SubdivIsoline-View
 ![Alt Text](https://media.giphy.com/media/LPxL71hXmRAzPhqPcI/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/YPbn7xlFftblgubcN7/giphy.gif)
 
